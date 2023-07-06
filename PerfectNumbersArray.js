@@ -1,4 +1,18 @@
 // Write a JavaScript Program to print Perfect Numbers between 1 to 1000.
+/*
+ * Perfect Number
+ * ---------------
+ * Perfect number is a positive integer that is
+ * equal to the sum of its proper positive divisors,
+ * that is, the sum of its positive divisors excluding
+ * the number itself.
+ *
+ * Following are the examples of perfect number.
+ * 6 = 1+2+3
+ * 28= 1+2+4+7+14
+ * 496= 1+2+4+8+16+31+62+124+248
+ *
+ */
 let array=[];
 let sum=0;
 let perfectNumbersarray=[];
